@@ -1,0 +1,32 @@
+a {
+  text-decoration: none;
+}
+
+.menu_style {
+  color: cornflowerblue;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.head_one_style {
+  color: #222222;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: bold;
+}
+
+.head_two_style {
+  color: coral;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 80px;
+}
+
+.paragraph_style {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: #7d7987;
+}
